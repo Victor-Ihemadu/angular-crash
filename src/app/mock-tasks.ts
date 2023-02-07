@@ -9,14 +9,14 @@ export const TASKS: Task[] = [
     },
     {
         id: 2,
-        text: 'Meeting at School',
-        day: 'May 6th at 2:30pm',
+        text: 'Project Status Meeting',
+        day: 'Feb 9th at 4:00pm',
         reminder: true,
     },
     {
         id: 3,
-        text: 'Food Shopping',
-        day: 'May 7th at 12:30pm',
+        text: 'Passport Collection',
+        day: 'March 7th at 12:30pm',
         reminder: false
     },
 ];
